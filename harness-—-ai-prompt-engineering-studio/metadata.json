@@ -1,0 +1,6 @@
+{
+  "name": "HARNESS — AI Prompt Engineering Studio",
+  "description": "Transform simple requests into production-ready, battle-tested AI prompts. Composable 15,000+ template engine, 15-part prompt architecture, and deep AI quality analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
